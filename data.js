@@ -318,6 +318,14 @@ const emojiItems = [
         year: 2000
     },
     {
+        title: "The Good, the Bad and the Ugly",
+        emojiImgs: "👍👎👹",
+        genres: ["Western"],
+        type: "movie",
+        year: 1966,
+        itemLink: "https://www.imdb.com/title/tt0060196/"
+    },
+    {
         title: "Goonies",
         emojiImgs: "🚴🚴‍♀️😲💍👨‍👩‍👧‍👦",
         genres: ["adventure", "comedy", "family"],
